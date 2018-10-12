@@ -6,11 +6,16 @@ import models.Account;
 import models.AccountType;
 import models.Transaction;
 import models.User;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.Date;
 
 public class App {
     public static void main(String[] args) {
+
+        Logger logger = LogManager.getLogger(App.class);
+
         UserManager.purgeTable();
         User esteban = new User("Lhote", "Esteban", "esteban.lhote@metapolis.fr", "tripiode", "patate", "06 666 666 66", new Date(), "89 Quai des chartrons");
         User manu = new User("Macron", "Emmanuel", "manulebgdu75@minecraft.gouv.fr", "manulebg", "argent", "99 999 999 99", new Date(), "A l'Elysée");
@@ -46,8 +51,10 @@ public class App {
         TransactionManager.saveTransaction(unPetitDon);
         User estebOne = UserManager.loadUserByLogin("tripiode");
 
+
+
         for (Account acc : estebOne.getAccounts())
-            System.out.println(acc.toString());
+            logger.debug(acc.toString());
 
         BaseManager.shutdown();
 
