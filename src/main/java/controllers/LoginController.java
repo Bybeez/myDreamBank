@@ -5,11 +5,13 @@ import models.User;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+@WebServlet("/login")
 public class LoginController extends HttpServlet {
 
     @Override
@@ -36,6 +38,7 @@ public class LoginController extends HttpServlet {
             loginDispatcher.forward(req, res);
         }
         else{
+            password = org.apache.commons.codec.digest.DigestUtils.sha256Hex(password);
             User user = UserManager.loadUserByLoginAndPassword(login, password);
             if(user == null){
                 req.setAttribute("errorMsg", "errNoCred");

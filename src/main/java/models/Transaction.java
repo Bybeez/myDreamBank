@@ -36,6 +36,13 @@ public class Transaction {
         destination.addTransactionTo(this);
     }
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 
     public float getAmount() {
         return amount;

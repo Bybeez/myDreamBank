@@ -15,18 +15,17 @@
 <body>
 <%@include file="includes/navbar.jsp"%>
 
-<% String errorMsg = (String)request.getAttribute("errorMsg");%>
-
 <div class="container">
     <br>
 
     <div class="row">
         <form class="col s12 " action="/TheBankProject-1.0-SNAPSHOT/login" method="post">
-            <div class="row">
-                <c:if test="${errorMsg != null}">
+            <c:if test="${errorMsg != null}">
+                <div class="row">
                     <span class="left new badge red" data-badge-caption="<fmt:message key = "${errorMsg}" />"></span><br>
-                </c:if>
-            </div>
+                </div>
+
+            </c:if>
             <div class="row">
                 <div class="input-field col s12">
                     <input id="login" type="text" class="validate" name="login" placeholder=<fmt:message key = "loginLabel"/> >

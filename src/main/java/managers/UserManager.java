@@ -3,6 +3,7 @@ package managers;
 import models.User;
 
 import javax.persistence.EntityManager;
+import javax.persistence.Query;
 import javax.persistence.TypedQuery;
 import java.util.List;
 
@@ -33,6 +34,14 @@ public class UserManager extends BaseManager{
         TypedQuery<User> query = em.createQuery("SELECT u FROM User u", User.class);
         List<User> users = query.getResultList();
         return users;
+    }
+
+    public static void updatePassword(String login, String newPassword) {
+        EntityManager em = getEntityManager();
+        em.getTransaction().begin();
+        Query query = em.createQuery("UPDATE User u SET u.password = '"+ newPassword + "' WHERE u.login ='"+ login +"'");
+        query.executeUpdate();
+        em.getTransaction().commit();
     }
 
     public static void purgeTable(){

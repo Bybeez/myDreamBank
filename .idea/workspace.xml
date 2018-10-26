@@ -6,7 +6,71 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c489263-4d97-4e3a-91c3-16a81bd3be9c" name="Default Changelist" comment="" />
+    <list default="true" id="6c489263-4d97-4e3a-91c3-16a81bd3be9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/API/RestTransactionsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/PasswordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/filters/ConnectionFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/managers/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/web/createAccount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/web/password.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TheBankProject_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TheBankProject_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TheBankProject_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TheBankProject_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheBankProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TheBankProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/META-INF/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/managers/AccountTypeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/managers/AccountTypeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/managers/TransactionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/managers/TransactionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/managers/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/managers/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/locales.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/locales.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/locales_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/locales_en.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/web/includes/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/web/includes/navbar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/web/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/web/transaction.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/web/transaction.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/web/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/web/user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/controllers/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/controllers/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/controllers/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/controllers/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/controllers/TransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/controllers/TransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/locales.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/locales.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/locales_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/locales_en.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/managers/AccountTypeManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/managers/AccountTypeManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/managers/TransactionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/managers/TransactionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/managers/UserManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/managers/UserManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/models/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/models/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/web/includes/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/web/includes/navbar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/web/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/web/transaction.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/web/transaction.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/web/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/classes/web/user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/TheBankProject-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/TransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/TransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/locales.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/locales.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/locales_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/locales_en.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/managers/AccountTypeManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/managers/AccountTypeManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/managers/TransactionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/managers/TransactionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/managers/UserManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/managers/UserManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/includes/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/web/includes/navbar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/web/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/transaction.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/web/transaction.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/web/user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,48 +83,49 @@
     <session id="222031351">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.25" value="5" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.27" value="3" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="53" />
-          <entry key="jsp" value="27" />
+          <entry key="java" value="92" />
+          <entry key="jsp" value="42" />
           <entry key="kt" value="1" />
-          <entry key="properties" value="14" />
-          <entry key="xml" value="17" />
+          <entry key="properties" value="21" />
+          <entry key="xml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="53" />
-          <entry key="JSP" value="27" />
+          <entry key="JAVA" value="92" />
+          <entry key="JSP" value="42" />
           <entry key="Kotlin" value="1" />
-          <entry key="Properties" value="14" />
-          <entry key="XML" value="17" />
+          <entry key="Properties" value="21" />
+          <entry key="XML" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="27" />
-          <entry key="java" value="1817" />
-          <entry key="jsp" value="2456" />
-          <entry key="properties" value="1073" />
-          <entry key="xml" value="155" />
+          <entry key="java" value="6643" />
+          <entry key="jsp" value="3138" />
+          <entry key="properties" value="2442" />
+          <entry key="xml" value="253" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1817" />
-          <entry key="JSP" value="2456" />
+          <entry key="JAVA" value="6643" />
+          <entry key="JSP" value="3138" />
           <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Properties" value="1073" />
-          <entry key="XML" value="155" />
+          <entry key="Properties" value="2442" />
+          <entry key="XML" value="253" />
         </counts>
       </usages-collector>
     </session>
@@ -68,69 +133,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/UserController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PasswordController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="30">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AccountController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="32" column="104" selection-start-line="27" selection-start-column="42" selection-end-line="32" selection-end-column="104" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/web/user.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/web/transaction.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="35" column="90" selection-start-line="35" selection-start-column="90" selection-end-line="35" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/locales.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-            </state>
-          </provider>
-          <provider editor-type-id="ResourceBundle" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/models/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1126">
-              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/locales_en.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-            </state>
-          </provider>
-          <provider editor-type-id="ResourceBundle" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -138,8 +156,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/controllers/TransactionController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="112" selection-start-line="19" selection-start-column="112" selection-end-line="19" selection-end-column="112" />
+            <state relative-caret-position="105">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,10 +166,68 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/locales.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="42" column="169" selection-start-line="42" selection-start-column="169" selection-end-line="42" selection-end-column="169" />
+            </state>
+          </provider>
+          <provider editor-type-id="ResourceBundle" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/controllers/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="44" column="39" selection-start-line="44" selection-end-line="45" />
+            <state relative-caret-position="345">
+              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/API/RestTransactionsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/managers/AccountManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/managers/UserManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,8 +238,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/web/includes/navbar.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="150">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -174,6 +250,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="yet_unknown" />
         <option value="Class" />
       </list>
     </option>
@@ -181,33 +258,37 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>data</find>
+      <find>Transaction</find>
+      <find>Request</find>
+      <find>loginDisp</find>
+      <find>User</find>
     </findStrings>
     <replaceStrings>
       <replace>account</replace>
+      <replace>Account</replace>
+      <replace>Response</replace>
+      <replace>passwordDisp</replace>
+      <replace>Transaction</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/controllers/helloController.java" />
         <option value="$PROJECT_DIR$/web/hello.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/controllers/HelloController.java" />
         <option value="$PROJECT_DIR$/src/main/java/Managers/TransactionManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/Managers/AccountTypeManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/models/Account.java" />
         <option value="$PROJECT_DIR$/src/main/java/models/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/models/Transaction.java" />
         <option value="$PROJECT_DIR$/src/main/java/managers/BaseManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/managers/TransactionManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/managers/AccountTypeManager.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/controllers/AccountController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/string/fr.java" />
         <option value="$PROJECT_DIR$/src/main/resources/string/Fr.java" />
         <option value="$PROJECT_DIR$/src/main/java/string/Fr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/managers/UserManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/string/En.java" />
         <option value="$PROJECT_DIR$/src/main/resources/string_en.java" />
         <option value="$PROJECT_DIR$/src/main/resources/web/account.jsp" />
@@ -215,15 +296,32 @@
         <option value="$PROJECT_DIR$/src/main/resources/web/includes/head.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/web/includes/footer.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/models/AccountType.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/web/login.jsp" />
-        <option value="$PROJECT_DIR$/src/main/resources/web/includes/navbar.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/web/transaction.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/META-INF/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/managers/AccountTypeManager.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/web/createAccount.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AccountController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/managers/UserManager.java" />
         <option value="$PROJECT_DIR$/src/main/resources/web/user.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/controllers/LoginController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/filters/ConnectionFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/web/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/locales_en.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/web/password.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/managers/TransactionManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/Transaction.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/testValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/helpers/Validator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/PasswordController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/locales.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/web/transaction.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/web/includes/navbar.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/managers/AccountManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/API/RestTransactionsController.java" />
       </list>
     </option>
   </component>
@@ -304,6 +402,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TheBankProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TheBankProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="managers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -311,31 +418,7 @@
               <item name="TheBankProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TheBankProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TheBankProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TheBankProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TheBankProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TheBankProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TheBankProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TheBankProject" type="b2602c69:ProjectViewProjectNode" />
@@ -357,7 +440,15 @@
             <path>
               <item name="TheBankProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="TheBankProject" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TheBankProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TheBankProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TheBankProject" type="b2602c69:ProjectViewProjectNode" />
@@ -383,7 +474,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="thebankproject" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539869663296" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540563872529" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -400,6 +491,7 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="controllers" />
+      <recent name="managers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -421,7 +513,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.testValidator">
+    <configuration name="testValidator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TheBankProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testValidator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.12" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/TheBankProject-1.0-SNAPSHOT/hello" />
       <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
@@ -496,6 +596,15 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9.0.12" />
+      <item itemvalue="JUnit.testValidator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testValidator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -515,11 +624,23 @@
       <workItem from="1539867430212" duration="2225000" />
       <workItem from="1539870409228" duration="2304000" />
       <workItem from="1539873793330" duration="2843000" />
+      <workItem from="1539935926647" duration="922000" />
+      <workItem from="1539937538734" duration="6572000" />
+      <workItem from="1539945544205" duration="11844000" />
+      <workItem from="1540538172199" duration="9550000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="testValidator - 2018.10.26 at 10h 20m 08s.xml">
+      <configuration name="testValidator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testValidator - 2018.10.26 at 10h 31m 39s.xml">
+      <configuration name="testValidator" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29667000" />
+    <option name="totallyTimeSpent" value="58555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -532,17 +653,17 @@
       <window_info id="JavaEE:App" order="5" side_tool="true" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info id="Persistence" order="7" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="8" visible="true" weight="0.27954546" />
+      <window_info active="true" content_ui="combo" id="Project" order="8" visible="true" weight="0.31742424" />
       <window_info id="Structure" order="9" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="1" visible="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="Messages" order="1" visible="true" weight="0.32626426" />
       <window_info anchor="bottom" id="Java Enterprise" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3284553" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.3284553" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32626426" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -556,41 +677,10 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="JSF" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.32954547" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="JavaEE:App" order="5" side_tool="true" />
-      <window_info id="Web" order="6" side_tool="true" />
-      <window_info id="Persistence" order="7" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="8" visible="true" weight="0.27045456" />
-      <window_info id="Structure" order="9" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="1" visible="true" weight="0.3284553" />
-      <window_info anchor="bottom" id="Java Enterprise" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" weight="0.3284553" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.3284553" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Maven Projects" order="1" />
-      <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -599,49 +689,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/web/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Models/Account.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Models/User.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Models/AccountType.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Models/Transaction.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/models/Transaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Managers/AccountTypeManager.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Managers/BaseManager.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Managers/TransactionManager.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/managers/TransactionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Managers/UserManager.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/managers/AccountTypeManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -664,13 +719,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/localisation/strings_en.properties" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/string_en.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/localisation/string_en.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -679,27 +727,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/locales_fr.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/managers/UserManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="32" column="84" selection-start-line="32" selection-start-column="84" selection-end-line="32" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/web/includes/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/models/AccountType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
@@ -717,38 +748,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/web/login.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="315">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/web/includes/navbar.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="345">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/AccountType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/managers/AccountTypeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/web/createAccount.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/web/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/web/user.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/controllers/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/web/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="122" selection-start-line="20" selection-start-column="122" selection-end-line="20" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/filters/ConnectionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="95" selection-start-line="24" selection-start-column="95" selection-end-line="24" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/locales_en.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/web/transaction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding>
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/managers/TransactionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="103" selection-start-line="27" selection-start-column="103" selection-end-line="27" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helpers/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/web/password.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/locales.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="42" column="169" selection-start-line="42" selection-start-column="169" selection-end-line="42" selection-end-column="169" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/web/includes/navbar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -757,51 +927,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/controllers/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="44" column="39" selection-start-line="44" selection-end-line="45" />
+        <state relative-caret-position="345">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/models/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1126">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/controllers/TransactionController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="112" selection-start-line="19" selection-start-column="112" selection-end-line="19" selection-end-column="112" />
+        <state relative-caret-position="105">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/locales_en.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PasswordController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="32" column="104" selection-start-line="27" selection-start-column="42" selection-end-line="32" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/managers/UserManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/managers/AccountManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/locales.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/API/RestTransactionsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-      <provider editor-type-id="ResourceBundle" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/web/transaction.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="35" column="90" selection-start-line="35" selection-start-column="90" selection-end-line="35" selection-end-column="90" />
+        <state relative-caret-position="286">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

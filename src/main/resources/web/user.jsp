@@ -16,6 +16,10 @@
 <body>
 <%@include file="includes/navbar.jsp"%>
 <div class="container">
+    <div class="row">
+        <a class="waves-effect waves-light btn" href="/TheBankProject-1.0-SNAPSHOT/newAccount"><fmt:message key="openAccount"/> </a>
+        <a class="waves-effect waves-light btn" href="/TheBankProject-1.0-SNAPSHOT/password"><fmt:message key="newPassword"/> </a>
+    </div>
     <ul class="collection with-header col s12">
         <li class="collection-header"><h4><fmt:message key="user"/> : <c:out value = "${user.name}"/> <c:out value = "${user.firstname}"/></h4></li>
         <c:forEach items = "${user.accounts}" var = "account">

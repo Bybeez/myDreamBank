@@ -22,19 +22,23 @@
         <c:forEach items = "${user.accounts}" var = "account">
             <c:if test="${account.id == param.id}">
                 <c:forEach items = "${account.transactionsFrom}" var = "transaction">
-                    <li class="collection-item">
-                        <c:out value="${transaction.amount}"/>
-                    </li>
+                    <li class="collection-item"><fmt:message key="amount"/> <c:out value="${transaction.amount}"/></li>
+                    <li class="collection-item"><fmt:message key="destination"/> : <c:out value="${transaction.destination.owner.firstname}"/> <c:out value="${transaction.destination.owner.name}"/> - <c:out value="${transaction.destination.accountType.description}" /></li>
+                    <li class="collection-item"><fmt:message key="description"/> : <c:out value="${transaction.description}"/></li>
                 </c:forEach>
             </c:if>
         </c:forEach>
     </ul>
     <ul class="collection with-header col s12">
         <li class="collection-header"><h4><fmt:message key="to"/></h4></li>
-        <c:forEach items = "${account.transactionsTo}" var = "transaction">
-            <li class="collection-item">
-                <c:out value="${transaction.amount}"/>
-            </li>
+        <c:forEach items = "${user.accounts}" var = "account">
+            <c:if test="${account.id == param.id}">
+                <c:forEach items = "${account.transactionsTo}" var = "transaction">
+                    <li class="collection-item"><fmt:message key="amount"/> <c:out value="${transaction.amount}"/></li>
+                    <li class="collection-item"><fmt:message key="source"/> : <c:out value="${transaction.source.owner.firstname}"/> <c:out value="${transaction.source.owner.name}"/> - <c:out value="${transaction.source.accountType.description}" /></li>
+                    <li class="collection-item"><fmt:message key="description"/> : <c:out value="${transaction.description}"/></li>
+                </c:forEach>
+            </c:if>
         </c:forEach>
     </ul>
 </div>
